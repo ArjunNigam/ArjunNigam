@@ -13,7 +13,7 @@ Currently transitioning toward **Backend SDE (SDE-1 / SDE-2)** roles by strength
 - Object-Oriented Programming (OOP)
 
 **Backend & Cloud**
-- Azure Logic Apps (Consumption & Standard)
+- Azure Logic Apps
 - Azure API Management (APIM)
 - Azure Service Bus
 - Azure Key Vault
