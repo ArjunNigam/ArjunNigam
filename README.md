@@ -71,14 +71,16 @@ Currently transitioning toward **Backend SDE (SDE-1 / SDE-2)** roles by strength
 ## 🎓 Certifications & Learning
 
 - **AZ-900: Microsoft Azure Fundamentals**
-- **Python Certification** — NPTEL (IIT Madras)
-- **Scaler Academy (Ongoing)**  
-  Data Structures & Algorithms, SQL, System Design  
-  *(Expected completion: May 2026)*
+- **Python Certification** — NPTEL (IIT Madras)**
+  
 
 ---
 
 ## 🎓 Education
+
+**Scaler Academy (Ongoing)**  
+Specialization in Software Development
+*2025-2026*
 
 **Amity University, Noida**  
 B.Tech in Computer Science & Engineering  
