@@ -17,9 +17,11 @@ Currently transitioning toward **Backend SDE (SDE-1 / SDE-2)** roles by strength
 - Azure API Management (APIM)
 - Azure Service Bus
 - Azure Key Vault
+- SpringBoot
 
 **Databases**
-- SQL (actively learning & practicing)
+- SQL
+- MySQL
 
 **Tools & DevOps**
 - Git
