@@ -14,7 +14,7 @@
 **Frameworks and Technologies**
 - Spring Boot 
 - REST APIs
-- Micorservices
+- Microservices
 
 
 **Databases**
