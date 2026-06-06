@@ -57,7 +57,7 @@
 
 ## 🎓 Education
 
-**Scaler Academy (Ongoing)**  
+**Scaler Academy**  
 Specialization in Software Development
 *2025-2026*
 
